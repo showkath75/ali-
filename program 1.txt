@@ -1,0 +1,7 @@
+this is showkath ali i have compleated degree in 2021
+my first python program is 
+print ("hello world")
+a = b = c = ("apple")
+print (a)
+print (b)
+print (c)
